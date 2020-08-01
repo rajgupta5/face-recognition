@@ -1,12 +1,12 @@
 # face-recognition
 
-Steps on MACOS
-==============
+On MACOS
+==========
 - conda create -n facerecog python==3.6.9
 - conda activate facerecog
 - conda install -c anaconda cmake
 - pip install -r requirements.txt
-# conda install -c menpo dlib
+- conda install -c menpo dlib
 - conda install -c anaconda mxnet
 
 On Windows
